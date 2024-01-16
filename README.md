@@ -61,6 +61,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Principais_Operadores/blob/main/README.md">07 - Principais Operadores</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Regras_Gatilho/blob/main/README.md">08 - Regras de Gatilho</a></p>
+</div> 
+
+
 
 
 
