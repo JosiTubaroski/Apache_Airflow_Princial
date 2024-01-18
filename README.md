@@ -73,7 +73,13 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Criando_Dags_Complexas/tree/main">10 - Estruturando dags um pouco mais complexas</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Criando_Dags_Complexas/tree/main">10 - Estruturando dags um pouco mais complexas</a></p>
+</div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Agrupando_com_task_group/blob/main/README.md">11 - Agrupamento de tasks</a></p>
+</div> 
 
 
 
