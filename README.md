@@ -65,6 +65,9 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Regras_Gatilho/blob/main/README.md">08 - Regras de Gatilho</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Exemplo_Trigger/blob/main/README.md">09 - Exemplo Trigger</a></p>
+</div> 
 
 
 
