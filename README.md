@@ -69,6 +69,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Exemplo_Trigger/blob/main/README.md">09 - Exemplos Trigger</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Criando_Dags_Complexas/tree/main">10 - Estruturando dags um pouco mais complexas</a></p>
+</div> 
+
+
 
 
 
