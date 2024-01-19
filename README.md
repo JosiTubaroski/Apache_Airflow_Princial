@@ -85,6 +85,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Dag_Executa_Dag">12 - Dag executa Dag</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Parametros_Dag/blob/main/README.md">13 - Principais Parametros Dag</a></p>
+</div> 
+
 
 
 
