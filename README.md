@@ -93,6 +93,12 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Criando-Dag-com-Dicionarios/blob/main/README.md">14 - Criando Dag com Dicionários</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Xcom/blob/main/README.md">15 - Fundamentos de XCom / Utilizando XCom</a></p>
+</div> 
+
+
+
 
 
 
