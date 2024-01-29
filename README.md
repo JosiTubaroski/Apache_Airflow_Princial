@@ -97,6 +97,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Xcom/blob/main/README.md">15 - Fundamentos de XCom / Utilizando XCom</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Dags_Exercicios/blob/main/dummy.py">16 - Criando dags com task Dummy</a></p>
+</div> 
+
 
 
 
