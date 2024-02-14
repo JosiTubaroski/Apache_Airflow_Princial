@@ -150,6 +150,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/8.1.Sensors.pdf">28 - Fundamentos do Sensor</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/sensors.py">29 - Criando um sensor para uma API</a></p>
+</div> 
+
+
 
 
 
