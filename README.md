@@ -155,6 +155,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/bancodedados.py">30 - Operando em Banco de Dados</a></p>
+</div> 
+
+
 
 
 
