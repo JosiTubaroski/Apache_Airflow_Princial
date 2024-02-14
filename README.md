@@ -133,6 +133,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/pythonoperator.py">24 - Limpeza de Dados com Python Operator</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/7.1.Datasets.pdf">25 - Conhecendo DataSets</a></p>
+</div> 
+
+
 
 
 
