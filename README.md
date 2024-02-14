@@ -106,7 +106,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/2.1.Variaveis.pdf">18 - Utilizando Variaveis em Dags</a></p>
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/variaveis.py">18 - Utilizando Variaveis em Dags</a></p>
 </div> 
 
 
