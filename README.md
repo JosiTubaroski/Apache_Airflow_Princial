@@ -147,7 +147,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/consumer.py">28 - Fundamentos do Sensor</a></p>
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/8.1.Sensors.pdf">28 - Fundamentos do Sensor</a></p>
 </div> 
 
 
