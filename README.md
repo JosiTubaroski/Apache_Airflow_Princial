@@ -117,6 +117,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/pools.py">20 - Testando Pools em Dags</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/5.1.Branchs.pdf">21 - Branchs: Decisões em Dags</a></p>
+</div> 
+
 
 
 
