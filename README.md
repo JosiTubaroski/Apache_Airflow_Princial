@@ -125,6 +125,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/branchs.py">22 - Criando uma Dag com Branch</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/6.1.Mais%20Python%20Operator.pdf">23 - Mais sobre PythonOperator</a></p>
+</div> 
+
 
 
 
