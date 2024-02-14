@@ -114,7 +114,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/3.1.Pools.pdf">20 - Testando Pools em Dags</a></p>
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/pools.py">20 - Testando Pools em Dags</a></p>
 </div> 
 
 
