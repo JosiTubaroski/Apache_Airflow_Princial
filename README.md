@@ -138,6 +138,15 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/7.1.Datasets.pdf">26 - Dag Consumindo DataSets (Produtor) </a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/7.1.Datasets.pdf">27 - Dag Consumindo DataSets (Consumidor) </a></p>
+</div> 
+
+
 
 
 
