@@ -167,6 +167,9 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/hooks.py">32 - Hooks com Banco de Dados</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/1.Configura%C3%A7%C3%B5es.pdf">33 - Configurações</a></p>
+</div> 
 
 
 
