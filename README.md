@@ -181,4 +181,9 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/big_data_operator.py">36 - Criando seu Plugin</a></p>
+</div> 
+
+
 
