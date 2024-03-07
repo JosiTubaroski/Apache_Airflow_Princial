@@ -176,6 +176,9 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/1.Criando%20Plugins.pdf">35 - Plugins</a></p>
+</div> 
 
 
 
