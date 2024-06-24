@@ -186,7 +186,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial/blob/main/img/big_data_operator.py">37 - O que é docker-compose</a></p>
+<p><a href="https://github.com/JosiTubaroski/Docker_Compose/edit/main/README.md">37 - Conceitos sobre o ecossistema Docker</a></p>
 </div> 
 
 
